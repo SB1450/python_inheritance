@@ -1,3 +1,4 @@
+```
 import math
 import string
 import random
@@ -25,3 +26,4 @@ class Student(Person):
 
 l1 = Lecturer("dave", 25, "123456789", 20000)
 print(l1)
+```
