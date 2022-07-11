@@ -2,17 +2,7 @@ import math
 import string
 import random
 import time
-import abc
-from itertools import count
-import builtins
 
-import math
-import string
-import random
-import time
-import abc
-from itertools import count
-import builtins
 class Person():
     def __init__(self, name, age, ID):
         self._name = name
